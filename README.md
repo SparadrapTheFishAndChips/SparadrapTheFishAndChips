@@ -18,7 +18,7 @@
 > My little list of tasks to do:
 - [x] Become a fox
 - [x] Create a sect on foxes
-- [] Become rich (cheh!)
+- [ ] Become rich (cheh!)
 
   > 🦊 ASPAS - Protect the foxes 🦊
 
